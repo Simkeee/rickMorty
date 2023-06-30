@@ -1,0 +1,2 @@
+# rickMorty
+next.js app
